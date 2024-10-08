@@ -6,14 +6,14 @@ hero:
   text: "Vue 3 + TypeScript 学习文档"
   tagline: "学习笔记"
   image:
-    src: /assets/icon.png
-    alt: Chrome 浏览器插件
+    src: /assets/logo.png
+    alt: logo
   actions:
     - theme: brand
       text: 快速开始
       link: /guide/
     - theme: alt
-      text: 常见问题
+      text: 问题集
       link: /faq/
 
 features:

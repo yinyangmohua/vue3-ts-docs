@@ -6,13 +6,12 @@ export default defineConfig({
         logo: "/assets/logo.png",
         nav: [
             { text: "首页", link: "/"},
-            { text: "指南", link: "/components/"},
+            { text: "笔记", link: "/components/"},
             { text: "组件", link: "/api/"},
-            { text: "API 参考", link: "/api/"},
-            { text: "常见问题", link: "/faq/"},
+            { text: "问题集", link: "/faq/"},
         ],
         socialLinks: [
-            { icon: "github", link: "https://github.com/vuejs/vitepress"}
+            { icon: "github", link: "https://github.com/yinyangmohua/vue3-ts-docs"}
         ],
         sidebar: {
             "/guide/": [
@@ -28,10 +27,10 @@ export default defineConfig({
             ],
             "/components/": [
                 {
-                    text: "常用组件",
+                    text: "笔记概览",
                     items: [
-                        { text: "介绍", link:"/components/"},
-                        { text: "按钮 Button", link: "/components/button"},
+                        { text: "简介", link:"/components/"},
+                        { text: "Vitepress指南", link: "/components/vitepress"},
                     ],
                 },
             ],
