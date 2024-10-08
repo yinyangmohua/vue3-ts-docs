@@ -1,5 +1,5 @@
 <p align="center">
-<img src="assets/logo.png" style="width:200px;" />
+<img src="![1728364960983](image/README/1728364960983.png)" style="width:200px;" />
 </p>
 <h1 align="center">Vue 3 + TypeScript 学习文档</h1>
 <p align="center">
