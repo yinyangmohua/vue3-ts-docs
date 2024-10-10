@@ -1,8 +1,8 @@
 :root {
     --vp-home-hero-name-color: transparent;
-    --vp-home-hero-name-background: linear-gradient(135deg, #5fb4cb 10%, #13728d 100%);
+    --vp-home-hero-name-background: linear-gradient(135deg, #5fb4cb 10%, #efdebb 100%);
 
-    --vp-home-hero-image-background-image: linear-gradient(135deg,#5fb4cb 10%,#13728d 100%);
+    --vp-home-hero-image-background-image: linear-gradient(135deg,#efdebb 10%,#d7c8a8 100%);
     --vp-home-hero-image-filter: blur(150px);
 
     --vp-button-brand-border: #5fb4cb;
